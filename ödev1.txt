@@ -1,0 +1,5 @@
+ Sınıfları kullanırken implement ve extend ile çağırabiliyoruz. İkisini aynı anda kullanınca hangisi önce yürütülür ?
+
+ --- İnternette bununla ilgili kaynak neredeyse yok denecek kadar az veya ben bulamadım bunun üzerine denemek istedim
+       ve eğer doğru yaptıysam İnterface ve extend ikisi aynı anda çalıştırıldığında interface extendi ezdi ve o daha
+       önce çalıştı buna göre çalışma mantığı ise benzer komutlarda birini ezerek diğerini öne almak oluyor.

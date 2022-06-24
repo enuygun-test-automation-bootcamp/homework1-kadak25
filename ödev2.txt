@@ -1,0 +1,7 @@
+Internal ne olduğu araştırılacak
+--- Javada internal olarak erişim metodu bulunmamakta. Java access modifiers olarak geçen metodlar şunlardır;
+        Private,Default,Protected,Public.
+    Internal ise c# dilinde mevcuttur ve Internal ile tanımladığımız bir sınıf ya da değişkene aynı Public’de
+    olduğu gibi proje içerisinde ya da Namespace (isim alanı) içerisinde erişebiliyoruz. Internal’ın Public’ten
+    farkı ise tanımladığı yapıya diğer projelerden ulaşım iznini vermemesidir. Internal aynı zamanda bir sınıfın
+    varsayılan belirleyicisidir.
